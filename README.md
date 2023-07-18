@@ -1,2 +1,2 @@
 # Admission-Predicting-Analysis
-Use python codes to do graduate admission prediction using machine learning models.
+Use python codes to do Graduate School Admission prediction using machine learning models.
