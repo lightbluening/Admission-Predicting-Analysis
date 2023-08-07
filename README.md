@@ -28,18 +28,16 @@ The dataset consists of 400 entries, each representing an individual applicant. 
 ![image](https://github.com/lightbluening/Admission-Predicting-Analysis/assets/93415125/75982f2d-b782-4c1c-8aed-842aa1f6238d)
 
 # Regression Models Used
-- **Lasso Model**
 - **SelectKBest Model**
 - **Recursive Feature Selection Model**
 
 # Classification Models Used
 - **KNN Model**
+- **Decision Tree Model**
 - **Logistic Regression Model**
 - **Random Forest Model**
 - **GradientBoostingClassifier Model**
 - **Support Vector Machine (SVM) Model**
 - **Neural Network**
 
-# Clustering Algorithm Used
-- **K-means**
 
